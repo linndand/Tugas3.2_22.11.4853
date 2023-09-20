@@ -1,0 +1,11 @@
+D:\UAY\smt03\Pemrog lanjut\Tugas3.2_4853\Tugas3.2_4853\bin\Debug\Tugas3.2_4853.exe.config
+D:\UAY\smt03\Pemrog lanjut\Tugas3.2_4853\Tugas3.2_4853\bin\Debug\Tugas3.2_4853.exe
+D:\UAY\smt03\Pemrog lanjut\Tugas3.2_4853\Tugas3.2_4853\bin\Debug\Tugas3.2_4853.pdb
+D:\UAY\smt03\Pemrog lanjut\Tugas3.2_4853\Tugas3.2_4853\obj\Debug\Tugas3.2_4853.csproj.AssemblyReference.cache
+D:\UAY\smt03\Pemrog lanjut\Tugas3.2_4853\Tugas3.2_4853\obj\Debug\Tugas3.2_4853.csproj.SuggestedBindingRedirects.cache
+D:\UAY\smt03\Pemrog lanjut\Tugas3.2_4853\Tugas3.2_4853\obj\Debug\Tugas3._2_4853.FrmTugas32.resources
+D:\UAY\smt03\Pemrog lanjut\Tugas3.2_4853\Tugas3.2_4853\obj\Debug\Tugas3._2_4853.Properties.Resources.resources
+D:\UAY\smt03\Pemrog lanjut\Tugas3.2_4853\Tugas3.2_4853\obj\Debug\Tugas3.2_4853.csproj.GenerateResource.cache
+D:\UAY\smt03\Pemrog lanjut\Tugas3.2_4853\Tugas3.2_4853\obj\Debug\Tugas3.2_4853.csproj.CoreCompileInputs.cache
+D:\UAY\smt03\Pemrog lanjut\Tugas3.2_4853\Tugas3.2_4853\obj\Debug\Tugas3.2_4853.exe
+D:\UAY\smt03\Pemrog lanjut\Tugas3.2_4853\Tugas3.2_4853\obj\Debug\Tugas3.2_4853.pdb
